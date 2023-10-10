@@ -1,0 +1,11 @@
+23-10-10.10:54:21.192 [main            ] INFO  Application            - Starting Application using Java 1.8.0_372 on ThinkBook with PID 8196 (D:\data\java_project\chatgpt-data\chatgpt-data-app\target\classes started by lby in D:\data\java_project\chatgpt-data)
+23-10-10.10:54:21.194 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+23-10-10.10:54:21.998 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port(s): 8090 (http)
+23-10-10.10:54:22.006 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8090"]
+23-10-10.10:54:22.007 [main            ] INFO  StandardService        - Starting service [Tomcat]
+23-10-10.10:54:22.007 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/9.0.75]
+23-10-10.10:54:22.161 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+23-10-10.10:54:22.161 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 931 ms
+23-10-10.10:54:22.879 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8090"]
+23-10-10.10:54:22.894 [main            ] INFO  TomcatWebServer        - Tomcat started on port(s): 8090 (http) with context path ''
+23-10-10.10:54:22.901 [main            ] INFO  Application            - Started Application in 2.099 seconds (JVM running for 3.379)
