@@ -69,6 +69,11 @@
             <groupId>commons-codec</groupId>
             <artifactId>commons-codec</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>com.github.houbb</groupId>
+            <artifactId>sensitive-word</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
